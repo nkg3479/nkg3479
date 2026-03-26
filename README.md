@@ -1,50 +1,55 @@
 <h1 align="center">Hi 👋, I'm Neeraj K G</h1>
-<h3 align="center">M.Tech CSE (AI/ML) | Machine Learning Engineer | Cloud & Backend</h3>
+<h3 align="center">M.Tech AI/ML | Machine Learning Engineer | Cloud & Backend</h3>
 
 <p align="center">
-I build <b>scalable ML systems</b> at the intersection of  
-<b>Multimodal AI, LLMs, and Cloud Engineering</b>.
+Multimodal AI • LLM Systems • Scalable ML Pipelines
 </p>
 
 ---
 
-## About Me
-- Working on **Multimodal AI (PET-MRI) and RAG-based LLM systems**  
-- Focused on **Deep Learning, Representation Learning, and LLM Evaluation**  
-- Experience with **AWS data pipelines and scalable backend systems**  
-- Exploring **advanced ML systems and modern web technologies**  
-- Open to **AI/ML and research collaborations**  
-- Reach me at: **neerajkg2003@gmail.com**
+## 🚀 Focus
+- 🧠 Multimodal Learning (PET-MRI)
+- 🤖 RAG & LLM Evaluation
+- ☁️ Scalable ML + Data Pipelines
 
 ---
 
-## Featured Projects
+## 🔬 Projects
 
-### PET–MRI Alzheimer’s Diagnosis
-- Built a **multimodal deep learning model (3D CNN + Transformer fusion)**  
-- Developed MRI–PET preprocessing pipeline for **medical imaging analysis**  
-- Focused on **cross-modal feature learning for early disease detection**  
+**PET–MRI Alzheimer’s Diagnosis**  
+3D CNN + Transformer fusion • Medical imaging pipeline  
 
-### Hallucination Persistence in RAG Systems
-- Evaluated **hallucination in RAG vs vanilla LLMs**  
-- Implemented retrieval pipelines using **FAISS, DPR, HuggingFace**  
-- Designed **faithfulness metrics and failure mode analysis**  
+**RAG Hallucination Analysis**  
+FAISS • DPR • LLM faithfulness evaluation  
 
 ---
 
-## Tech Stack
-- **Machine Learning:** PyTorch, Transformers, CNNs, Scikit-learn  
-- **Programming:** Python, Java, C  
-- **Data:** NumPy, Pandas, OpenCV  
-- **Cloud:** AWS (S3, Lambda, Glue, Athena)  
-- **Tools:** Git, Docker, Jupyter  
+## 🛠 Tech Stack
 
----
-
-## 📊 GitHub Stats
 <p align="center">
-<a href="https://github.com/nkg3479">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nkg3479&show_icons=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkg3479&layout=compact"/>
-</a>
+
+<!-- ML -->
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+
+<!-- Cloud -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=flat"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat"/>
+<img src="https://img.shields.io/badge/Glue-FF4F8B?style=flat"/>
+<img src="https://img.shields.io/badge/Athena-663399?style=flat"/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+
 </p>
+### ⚙️ My GitHub Stats <p align="left"> <a href="https://github.com/nkg3479"> <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nkg3479&show_icons=true&include_all_commits=true&count_private=true&bg_color=fccf31,faad1f,f76765,f55555&title_color=fff&text_color=fff&icon_color=fff"/> <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nkg3479&layout=compact&langs_count=8&bg_color=fccf31,faad17,f76765,f55555&title_color=fff&text_color=fff&icon_color=fff"/> </a> </p>
+
+## 📫 Contact
+📧 neerajkg2003@gmail.com
