@@ -1,16 +1,44 @@
 
-<h1>I'M Neeraj K G </h1>
-<h3>Final year B.Tech student in Computer Science and Engineering</h3>
-<h3>A competitive coder from Christ College of Engineering<h3>
+<h1>Hi, I'm Neeraj K G 👋</h1>
+<h3>M.Tech CSE (AI/ML) | Machine Learning Engineer | Backend & Cloud Enthusiast</h3>
 
-- 🔭 I’m currently working on blochain projects.
-- 🌱 I’m currently learning Next.js,web3.
-- 👯 I’m looking to collaborate on web develepment 
-- 🤔 I’m looking for help with smart contracts..
-- 💬 Ask me about Java,Python,Competive coding..
-- 📫 How to reach me: neerajkg2003@gmail.com
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<p>
+I build scalable systems and intelligent applications at the intersection of 
+<strong>Machine Learning, Multimodal AI, and Cloud Engineering</strong>.  
+Currently working on deep learning, RAG-based LLM systems, and real-world AI applications.
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 Currently working on **Multimodal AI (PET-MRI) & RAG-based LLM systems**
+- 🧠 Interested in **Deep Learning, Representation Learning, and LLM Evaluation**
+- ☁️ Experienced with **AWS-based data pipelines and scalable backend systems**
+- 🌱 Exploring **advanced ML systems, Next.js, and Web3 fundamentals**
+- 👯 Open to collaborate on **AI/ML, LLMs, and research-driven projects**
+- 💬 Ask me about **Python, PyTorch, Deep Learning, Backend Systems**
+- 📫 Reach me at: **neerajkg2003@gmail.com**
+
+---
+
+### 🛠 Tech Stack
+- **ML/AI:** PyTorch, Transformers, CNNs, Scikit-learn  
+- **Languages:** Python, Java, C  
+- **Data:** NumPy, Pandas, OpenCV  
+- **Cloud:** AWS (S3, Lambda, Glue, Athena)  
+- **Tools:** Docker, Git, Jupyter  
+
+---
+
+### 📌 Current Focus
+- Multimodal Learning (Medical Imaging)
+- Retrieval-Augmented Generation (RAG)
+- Efficient & Scalable ML Pipelines
+
+---
+
+### ⚡ Fun Fact
+I enjoy turning complex AI ideas into practical, real-world systems 🚀
 
 ### ⚙️ My GitHub Stats
 <p align="left">
