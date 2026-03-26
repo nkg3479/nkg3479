@@ -2,8 +2,8 @@
 <h3 align="center">🚀 M.Tech CSE (AI/ML) | Machine Learning Engineer | Cloud & Backend Enthusiast</h3>
 
 <p align="center">
-I build scalable systems and intelligent applications at the intersection of  
-<b>Machine Learning, Multimodal AI, and Cloud Engineering</b>.
+I build <b>scalable ML systems</b> at the intersection of  
+<b>Multimodal AI, LLMs, and Cloud Engineering</b>.
 </p>
 
 <p align="center">
@@ -12,14 +12,28 @@ Currently working on <b>Deep Learning, RAG-based LLM systems, and real-world AI 
 
 ---
 
-## About Me
-- Working on **Multimodal AI (PET-MRI) & RAG-based LLM systems**  
-- Exploring **Deep Learning, Representation Learning, LLM Evaluation**  
-- Hands-on with **AWS data pipelines & scalable backend systems**  
-- Learning **advanced ML systems, Next.js, and Web3**  
-- Open to collaborate on **AI/ML & research-driven projects**  
-- Ask me about **Python, PyTorch, Backend Systems**  
-- Reach me: **neerajkg2003@gmail.com**
+## 🚀 About Me
+- 🔭 Working on **Multimodal AI (PET-MRI) & RAG-based LLM systems**  
+- 🧠 Focused on **Deep Learning, Representation Learning, LLM Evaluation**  
+- ☁️ Experience with **AWS data pipelines & scalable backend systems**  
+- 🌱 Exploring **advanced ML systems, Next.js, and Web3**  
+- 👯 Open to collaborate on **AI/ML & research-driven projects**  
+- 💬 Ask me about **PyTorch, ML systems, Backend engineering**  
+- 📫 Reach me: **neerajkg2003@gmail.com**
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 PET–MRI Alzheimer’s Diagnosis
+- Multimodal deep learning using **3D CNN + Transformer fusion**
+- MRI–PET preprocessing pipeline for **medical image analysis**
+- Focused on **cross-modal feature learning and early diagnosis**
+
+### 🤖 Hallucination Persistence in RAG Systems
+- Evaluated **hallucination in RAG vs vanilla LLMs**
+- Built pipelines using **FAISS, DPR, HuggingFace**
+- Designed **faithfulness metrics & failure mode analysis**
 
 ---
 
@@ -58,13 +72,6 @@ Currently working on <b>Deep Learning, RAG-based LLM systems, and real-world AI 
 
 ---
 
-## 📌 Current Focus
-- Multimodal Learning (Medical Imaging)  
-- Retrieval-Augmented Generation (RAG)  
-- Efficient & Scalable ML Pipelines  
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
 <a href="https://github.com/nkg3479">
@@ -72,6 +79,13 @@ Currently working on <b>Deep Learning, RAG-based LLM systems, and real-world AI 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkg3479&layout=compact&theme=radical"/>
 </a>
 </p>
+
+---
+
+## 📌 Current Focus
+- 🧠 Multimodal Learning (Medical Imaging)  
+- 🤖 Retrieval-Augmented Generation (RAG)  
+- ⚡ Efficient & Scalable ML Pipelines  
 
 ---
 
